@@ -47,14 +47,14 @@
 ---
 
 # 技能清单
-熟悉 Javascript 及 Node.js 基础知识
-熟悉 HTML/CSS/BOOTSTRAP/Coffee-script/Avalon.js
-熟悉 HTML5/CSS3/jQuery
-熟悉 Node.js 的常用模块，如：express, socket.io, ejs, jade, passport 等
-熟悉 MongoDB，Mysql 数据库的使用
-熟悉 git，hg的使用
-熟练使用 vim
-了解 angular.js,redis,nginx,linux......
+ - 熟悉 Javascript 及 Node.js 基础知识
+ - 熟悉 HTML/CSS/BOOTSTRAP/Coffee-script/Avalon.js
+ - 熟悉 HTML5/CSS3/jQuery
+ - 熟悉 Node.js 的常用模块，如：express, socket.io, ejs, jade, passport 等
+ - 熟悉 MongoDB，Mysql 数据库的使用
+ - 熟悉 git，hg的使用
+ - 熟练使用 vim
+ - 了解 angular.js,redis,nginx,linux......
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
