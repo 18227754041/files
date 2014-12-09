@@ -20,13 +20,18 @@
 
 # 工作经历
 
-## 天使汇 （ 2014年6月 ~ 至今 ）
+## 天使汇 （ 2014年6月 ~ 2014年11月 ）
 
-### 天使汇
-负责把UI的设计图按照w3c标准做成html页面，使用jQuery，coffee-script和Avalon.js实现页面上的前端交互。移动端响应式页面实现。
+###tech2ipo 
+页面前端样式及交互。 网址：http://42py.com
 
-### tech2ipo
-基本算一个单页应用，使用Avalon.js控制页面渲染。主要负责页面实现，交互效果的实现，与后端对接数据接口。
+###天使汇 
+导航栏，登录注册页，项目展示页，创建项目整个流程页，微信卡片页及微信手机端页面，个人信息页。
+首页网址：http://angelcrunch.com
+
+###speeddating
+页面前端样式及交互。 网址：http://angelcrunch.com/speeddating
+
 
 ## 其他项目
 
@@ -35,26 +40,17 @@
 开发技术：express+EJS+MONGODB+Passport+bootstrap
 网址：http://duanzhangtao.herokuapp.com/
 
-###Node.js 爬虫
-项目简介：使用 superagent 与 cheerio 实现简单的爬虫
-
 ###Node.js 聊天室
 项目简介：使用express 和 socket.io实现简单的聊天室
-
-###OPOS
-一张照片一个故事 One picture one story，自己做的一个简单的图文小站。使用angular+express+mongodb。
-
 ---
 
 # 技能清单
- - 熟悉 Javascript 及 Node.js 基础知识
+ - 熟悉 Javascript
  - 熟悉 HTML/CSS/BOOTSTRAP/Coffee-script/Avalon.js
  - 熟悉 HTML5/CSS3/jQuery
- - 熟悉 Node.js 的常用模块，如：express, socket.io, ejs, jade, passport 等
- - 熟悉 MongoDB，Mysql 数据库的使用
- - 熟悉 git，hg的使用
- - 熟练使用 vim
- - 了解 angular.js,redis,nginx,linux......
+ - 熟悉 git hg
+ - 了解 Node.js 的常用模块，如：express, socket.io, ejs, jade, passport，mongoose 等
+ - 了解 angular.js,require.js
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
